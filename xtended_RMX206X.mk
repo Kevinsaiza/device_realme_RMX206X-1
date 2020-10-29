@@ -17,8 +17,8 @@ $(call inherit-product, vendor/xtended/config/common_full_phone.mk)
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := xtended_RMX206X
 PRODUCT_DEVICE := RMX206X
-PRODUCT_BRAND := realme
-PRODUCT_MODEL := realme 6 Pro
-PRODUCT_MANUFACTURER := realme
+PRODUCT_BRAND := Realme
+PRODUCT_MODEL := Realme 6 Pro
+PRODUCT_MANUFACTURER := Realme
 
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
