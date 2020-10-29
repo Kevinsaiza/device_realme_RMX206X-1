@@ -37,6 +37,9 @@
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
 
+    <!-- Whether device has vooc charging support -->
+    <bool name="config_hasVoocCharger">true</bool>
+
     <!-- Enable Night display, which requires HWC 2.0. -->
     <bool name="config_nightDisplayAvailable">true</bool>
   
