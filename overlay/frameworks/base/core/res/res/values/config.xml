@@ -56,14 +56,6 @@
     <!-- Expected value from fast charging status file  -->
     <string name="config_oemFastChargerStatusValue" translatable="false"></string>
 
-    <!-- Whether device supports variable refresh rate -->
-    <bool name="config_hasVariableRefreshRate">true</bool>
-    <!-- Default setting for refresh rate
-      0 = Auto
-      1 = 60HZ
-      2 = 90Hz -->
-    <integer name="config_defaultVariableRefreshRateSetting">2</integer>
-
     <!-- Whether Device support LiveDisplay or not -->
     <bool name="config_liveDisplayAvailable">true</bool>
 
