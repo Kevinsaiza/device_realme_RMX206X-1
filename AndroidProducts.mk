@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_RMX206X.mk
-
-COMMON_LUNCH_CHOICES := \
-    aosp_RMX206X-user \
-    aosp_RMX206X-userdebug \
-    aosp_RMX206X-eng 
